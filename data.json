@@ -1,0 +1,29 @@
+{
+  "empresa_madre": {
+    "nombre": "Excelencia Ideas Publicitarias, S.L.",
+    "trayectoria_años": 30,
+    "sector": "Agencia de Publicidad y Medios"
+  },
+  "medio": {
+    "nombre": "enSestao.com",
+    "año_fundacion": 2008,
+    "años_en_activo": 18,
+    "formatos": {
+      "papel": {
+        "periodicidad": "Mensual",
+        "tirada": 13000,
+        "distribucion": "Buzoneo gratuito en Sestao"
+      },
+      "digital": {
+        "url": "https://ensestao.com",
+        "actualizacion": "Diaria"
+      }
+    }
+  },
+  "servicios": [
+    "Publicidad impresa",
+    "Publicidad digital",
+    "Publirreportajes",
+    "Gestión de contenidos locales"
+  ]
+}
